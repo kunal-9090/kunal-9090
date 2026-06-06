@@ -79,44 +79,68 @@ builder_mode: idea -> prototype -> polished product -> open-source impact
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/AI-powered-Career-Operating-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=AI-powered-Career-Operating-System&theme=tokyonight&hide_border=true" alt="AI-powered Career Operating System">
-      </a>
-      <p><strong>AI-powered Career Operating System</strong><br>Career workflows, automation, and AI-assisted professional tooling.</p>
+      <h3>
+        <a href="https://github.com/kunal-9090/AI-powered-Career-Operating-System">AI-powered Career Operating System</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Product-Career%20Automation-38BDF8?style=flat-square" alt="AI Product">
+        <img src="https://img.shields.io/badge/Focus-Workflow%20Systems-14B8A6?style=flat-square" alt="Workflow Systems">
+      </p>
+      <p>Career workflows, automation, and AI-assisted professional tooling built around practical user journeys.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/secureops-taskflow-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=secureops-taskflow-api&theme=tokyonight&hide_border=true" alt="SecureOps Taskflow API">
-      </a>
-      <p><strong>SecureOps Taskflow API</strong><br>JWT auth, refresh tokens, admin APIs, audit logs, Swagger docs, Docker, and React frontend.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/kunal-9090/EaseMotion-css">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=EaseMotion-css&theme=tokyonight&hide_border=true" alt="EaseMotion CSS">
-      </a>
-      <p><strong>EaseMotion CSS</strong><br>Animation-first CSS framework with reusable UI components and modern effects.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/kunal-9090/BeamSync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=BeamSync&theme=tokyonight&hide_border=true" alt="BeamSync">
-      </a>
-      <p><strong>BeamSync</strong><br>A file sharing project focused on faster large-file transfer workflows.</p>
+      <h3>
+        <a href="https://github.com/kunal-9090/secureops-taskflow-api">SecureOps Taskflow API</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/API-Security%20First-F97316?style=flat-square" alt="Security First API">
+        <img src="https://img.shields.io/badge/Auth-JWT%20%2B%20Refresh%20Tokens-22C55E?style=flat-square" alt="JWT Auth">
+      </p>
+      <p>Role-based workflow system with JWT auth, refresh tokens, audit logs, Swagger docs, Docker, and React frontend.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/Eagle">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=Eagle&theme=tokyonight&hide_border=true" alt="Eagle">
-      </a>
-      <p><strong>Eagle</strong><br>Open-source surveillance AI system with production-grade computer vision ambitions.</p>
+      <h3>
+        <a href="https://github.com/kunal-9090/EaseMotion-css">EaseMotion CSS</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/CSS-Animation%20Framework-A855F7?style=flat-square" alt="Animation Framework">
+        <img src="https://img.shields.io/badge/UI-Reusable%20Components-2563EB?style=flat-square" alt="Reusable Components">
+      </p>
+      <p>Animation-first CSS framework with reusable UI components, modern effects, and zero-dependency styling ideas.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/450-dsa">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=450-dsa&theme=tokyonight&hide_border=true" alt="450 DSA">
-      </a>
-      <p><strong>450 DSA</strong><br>Pattern-based DSA practice across arrays, DP, graphs, trees, and interview problem solving.</p>
+      <h3>
+        <a href="https://github.com/kunal-9090/BeamSync">BeamSync</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/Product-File%20Sharing-0EA5E9?style=flat-square" alt="File Sharing">
+        <img src="https://img.shields.io/badge/Goal-Faster%20Transfers-14B8A6?style=flat-square" alt="Faster Transfers">
+      </p>
+      <p>A file sharing project focused on smoother large-file transfer workflows and a cleaner delivery experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/kunal-9090/Eagle">Eagle</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/AI-Computer%20Vision-38BDF8?style=flat-square" alt="Computer Vision">
+        <img src="https://img.shields.io/badge/System-Surveillance%20AI-64748B?style=flat-square" alt="Surveillance AI">
+      </p>
+      <p>Open-source surveillance AI system exploring computer vision, monitoring workflows, and practical AI systems.</p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/kunal-9090/450-dsa">450 DSA</a>
+      </h3>
+      <p>
+        <img src="https://img.shields.io/badge/DSA-450%2B%20Problems-22C55E?style=flat-square" alt="450 DSA Problems">
+        <img src="https://img.shields.io/badge/Practice-Pattern%20Based-F97316?style=flat-square" alt="Pattern Based Practice">
+      </p>
+      <p>Pattern-based DSA practice across arrays, dynamic programming, graphs, trees, and interview problem solving.</p>
     </td>
   </tr>
 </table>
