@@ -174,18 +174,25 @@ builder_mode: idea -> prototype -> polished product -> open-source impact
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunal-9090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Kunal's%20GitHub%20Stats" alt="GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-9090&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages">
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-49-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&label=Profile%20Views&style=for-the-badge&color=0EA5E9)
+![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=Followers&color=14B8A6)
+![Open Source](https://img.shields.io/badge/Open%20Source-GSSoC'26-F97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kunal-9090&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-9090&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph">
-
 </div>
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>AI</strong><br>Agents, automation, RAG, computer vision</td>
+    <td width="25%" align="center"><strong>Frontend</strong><br>React, Next.js, Tailwind, polished UI</td>
+    <td width="25%" align="center"><strong>Backend</strong><br>APIs, auth, validation, databases</td>
+    <td width="25%" align="center"><strong>Open Source</strong><br>Security, accessibility, reviews, PRs</td>
+  </tr>
+</table>
 
 ---
 
