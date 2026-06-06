@@ -1,14 +1,14 @@
 <div align="center">
 
-![Kunal Keshari Pattanaik](https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0f172a,100:1e293b&text=Kunal%20Keshari%20Pattanaik&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=42&desc=AI%20%2B%20Web%20Builder%20%7C%20Open%20Source%20Contributor%20%7C%20GSSoC'26&descColor=e2e8f0&descSize=18&descAlign=50&descAlignY=62)
+![Kunal Keshari Pattanaik](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f766e,100:2563eb&text=Kunal%20Keshari%20Pattanaik&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=38&desc=AI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descColor=ccfbf1&descSize=18&descAlign=50&descAlignY=56)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-KUNAL--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-51-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
-[![GSSoC](https://img.shields.io/badge/GSSOC'26-CONTRIBUTOR-F97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://gssoc.girlscript.org/)
-[![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&label=PROFILE%20VIEWS&style=for-the-badge&color=0ea5e9)](https://github.com/kunal-9090)
-[![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=FOLLOWERS&color=14B8A6)](https://github.com/kunal-9090?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+AI-powered+products+that+feel+fast%2C+useful%2C+and+polished.;I+turn+ideas+into+full-stack+apps%2C+dashboards%2C+and+automation+systems.;I+contribute+to+open+source+with+merge-ready%2C+production-style+PRs.)](https://git.io/typing-svg)
 
-### Exploring AI-powered systems, animated web experiences, and practical open-source engineering
+[![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Builder%20Profile-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
+[![GSSoC](https://img.shields.io/badge/GSSoC'26-Contributor-F97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://gssoc.girlscript.org/)
+[![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&label=Profile%20Views&style=for-the-badge&color=0ea5e9)](https://github.com/kunal-9090)
+[![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=Followers&color=14B8A6)](https://github.com/kunal-9090?tab=followers)
 
 </div>
 
@@ -16,14 +16,41 @@
 
 ## About Me
 
-<img align="right" width="340" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="330" alt="Developer working animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-Hi, I am **Kunal Keshari Pattanaik**, a developer who enjoys building polished, interactive, and useful software. I like working across frontend, backend, AI workflows, dashboards, automation, and open-source projects where every feature has a real purpose.
+Hi, I am **Kunal Keshari Pattanaik**, an AI and full-stack developer who likes building software that looks sharp, works reliably, and solves a real problem.
 
-- Building projects around **AI tools, full-stack web apps, dashboards, and developer workflows**.
-- Contributing actively to **GSSoC'26** with production-style pull requests and review follow-ups.
-- Focused on clean UI, readable code, good tests, and merge-ready contributions.
-- Always exploring better ways to turn ideas into stable, usable products.
+I enjoy working across **AI workflows, web apps, dashboards, APIs, automation, security fixes, and open-source projects**. My focus is simple: ship clean features, write readable code, and make every project feel useful from the first click.
+
+- Currently building around **AI agents, SaaS-style products, developer tools, dashboards, and open-source automation**.
+- Active **GSSoC'26 contributor**, focused on clear issues, high-quality PRs, maintainer feedback, and merge-ready work.
+- Comfortable moving from **frontend polish** to **backend logic**, API design, validation, testing, and deployment.
+- I care about **clean UI, practical architecture, performance, security, accessibility, and developer experience**.
+
+```txt
+builder_mode: idea -> prototype -> polished product -> open-source impact
+```
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">AI Products</h3>
+      <p align="center">Career systems, document AI, assistants, RAG experiments, computer vision, and automation flows.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Full-Stack Apps</h3>
+      <p align="center">React, Next.js, APIs, auth, dashboards, admin panels, data flows, and deployable product experiences.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Open Source</h3>
+      <p align="center">Security fixes, validation, accessibility, performance, refactors, documentation, and review follow-ups.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,32 +58,23 @@ Hi, I am **Kunal Keshari Pattanaik**, a developer who enjoys building polished, 
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
+![Tech Stack](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,vercel,netlify&perline=10)
+
+</div>
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-38BDF8?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20APIs-22C55E?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Agents%20%7C%20Automation%20%7C%20RAG-A855F7?style=flat-square)
+![Database](https://img.shields.io/badge/Data-MongoDB%20%7C%20MySQL%20%7C%20Validation-F97316?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20GitHub%20%7C%20Vercel%20%7C%20Netlify-64748B?style=flat-square)
 
 </div>
 
 ---
 
-## Featured Projects
+## Featured Work
 
 <table>
   <tr>
@@ -64,24 +82,65 @@ Hi, I am **Kunal Keshari Pattanaik**, a developer who enjoys building polished, 
       <a href="https://github.com/kunal-9090/AI-powered-Career-Operating-System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=AI-powered-Career-Operating-System&theme=tokyonight&hide_border=true" alt="AI-powered Career Operating System">
       </a>
+      <p><strong>AI-powered Career Operating System</strong><br>Career workflows, automation, and AI-assisted professional tooling.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/InternHack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=InternHack&theme=tokyonight&hide_border=true" alt="InternHack">
+      <a href="https://github.com/kunal-9090/secureops-taskflow-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=secureops-taskflow-api&theme=tokyonight&hide_border=true" alt="SecureOps Taskflow API">
       </a>
+      <p><strong>SecureOps Taskflow API</strong><br>JWT auth, refresh tokens, admin APIs, audit logs, Swagger docs, Docker, and React frontend.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/mpc-autoscaler">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=mpc-autoscaler&theme=tokyonight&hide_border=true" alt="MPC Autoscaler">
+      <a href="https://github.com/kunal-9090/EaseMotion-css">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=EaseMotion-css&theme=tokyonight&hide_border=true" alt="EaseMotion CSS">
       </a>
+      <p><strong>EaseMotion CSS</strong><br>Animation-first CSS framework with reusable UI components and modern effects.</p>
     </td>
     <td width="50%">
-      <a href="https://github.com/kunal-9090/police-goodwork-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=police-goodwork-dashboard&theme=tokyonight&hide_border=true" alt="Police Goodwork Dashboard">
+      <a href="https://github.com/kunal-9090/BeamSync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=BeamSync&theme=tokyonight&hide_border=true" alt="BeamSync">
       </a>
+      <p><strong>BeamSync</strong><br>A file sharing project focused on faster large-file transfer workflows.</p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kunal-9090/Eagle">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=Eagle&theme=tokyonight&hide_border=true" alt="Eagle">
+      </a>
+      <p><strong>Eagle</strong><br>Open-source surveillance AI system with production-grade computer vision ambitions.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kunal-9090/450-dsa">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=450-dsa&theme=tokyonight&hide_border=true" alt="450 DSA">
+      </a>
+      <p><strong>450 DSA</strong><br>Pattern-based DSA practice across arrays, DP, graphs, trees, and interview problem solving.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Open Source Focus
+
+<table>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td>Input validation, safer browser APIs, XSS prevention, token handling, and defensive defaults.</td>
+  </tr>
+  <tr>
+    <td><strong>Accessibility</strong></td>
+    <td>ARIA labels, keyboard flows, focus states, semantic controls, and cleaner user journeys.</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Quality</strong></td>
+    <td>Responsive layouts, polished interactions, clear state handling, and maintainable components.</td>
+  </tr>
+  <tr>
+    <td><strong>Backend Quality</strong></td>
+    <td>API validation, auth flows, database-ready design, error handling, and tests where they matter.</td>
   </tr>
 </table>
 
@@ -117,8 +176,18 @@ Hi, I am **Kunal Keshari Pattanaik**, a developer who enjoys building polished, 
 
 ---
 
+## Let's Connect
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,50:2563EB,100:0B1026)
+[![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open%20Source-GSSoC'26-F97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://gssoc.girlscript.org/)
+
+<br>
+
+<strong>Thanks for visiting. I am always building, learning, contributing, and improving.</strong>
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563eb,45:0f766e,100:020617)
