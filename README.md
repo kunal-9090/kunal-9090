@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Builder_Profile-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Open Source](https://img.shields.io/badge/Open_Source-GSSoC'26-FF7A00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&style=for-the-badge&color=0EA5E9&label=Profile+Views)](https://github.com/kunal-9090)
-![IST Time](https://img.shields.io/badge/Timezone-IST%20%2B05:30-22C55E?style=for-the-badge&logo=clockify&logoColor=white)
+![IST Time](https://img.shields.io/badge/Timezone-IST%20UTC%2B5%3A30-22C55E?style=for-the-badge)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+production-ready+web+apps+and+AI+workflows;Frontend+%2B+Backend+%2B+Databases+%2B+Cloud+%2B+Automation;Open-source+contributor+focused+on+clean+and+scalable+software)
 
@@ -140,8 +140,8 @@ GitHub profile READMEs cannot directly reveal the GitHub username of every visit
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&style=for-the-badge&color=0EA5E9&label=Total+Profile+Visits)
-![Timezone](https://img.shields.io/badge/Local_Time-IST%20%2B05:30-22C55E?style=for-the-badge&logo=clockify&logoColor=white)
-![Analytics Ready](https://img.shields.io/badge/Visitor_Analytics-Backend_Ready-8B5CF6?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Timezone](https://img.shields.io/badge/Local_Time-IST%20UTC%2B5%3A30-22C55E?style=for-the-badge)
+![Analytics Ready](https://img.shields.io/badge/Visitor_Analytics-Backend_Ready-8B5CF6?style=for-the-badge)
 
 </div>
 
@@ -172,11 +172,12 @@ Contribute with clarity and discipline.
 
 ---
 
-## Highlights
+## Project Highlights
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kunal-9090&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
+![AI Career Operating System](https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=AI-powered-Career-Operating-System&theme=tokyonight&hide_border=true)
+![SecureOps Taskflow API](https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=secureops-taskflow-api&theme=tokyonight&hide_border=true)
 
 </div>
 
