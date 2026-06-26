@@ -1,38 +1,67 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,45:0EA5E9,100:22C55E&text=Kunal%20Keshari%20Pattanaik&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=AI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=58)
+![Kunal Keshari Pattanaik](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,42:0F766E,100:2563EB&text=Kunal%20Keshari%20Pattanaik&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=AI%20Builder%20%7C%20Full-Stack%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=57)
 
-[![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-181717?style=for-the-badge&logo=github)](https://github.com/kunal-9090)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Builder_Profile-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Open Source](https://img.shields.io/badge/Open_Source-GSSoC'26-FF7A00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
-[![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=Followers&color=22C55E)](https://github.com/kunal-9090?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Builder_Profile-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-F97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/kunal-9090)
+[![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=Followers&color=14B8A6)](https://github.com/kunal-9090?tab=followers)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+production-ready+web+apps+and+AI+workflows;Frontend+%2B+Backend+%2B+Databases+%2B+Cloud+%2B+Automation;Open-source+contributor+focused+on+clean+and+scalable+software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=850&color=38BDF8&center=true&vCenter=true&width=950&lines=I+design+polished+interfaces+and+ship+reliable+systems;AI+products+%7C+full-stack+apps+%7C+automation+workflows;Clean+architecture%2C+strong+UX%2C+and+review-ready+open+source)
 
 </div>
 
 ---
 
-## About Me
+## Professional Summary
 
 <img align="right" width="330" alt="Developer workspace animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I am **Kunal Keshari Pattanaik**, an AI-focused full-stack developer who enjoys building software that looks sharp, performs reliably, and solves real problems. I work across modern web applications, API systems, dashboards, automation workflows, AI integrations, and open-source contributions.
+I am **Kunal Keshari Pattanaik**, an AI-focused full-stack developer building practical products across web apps, intelligent workflows, dashboards, APIs, automation systems, and open-source engineering.
 
-I care about clean architecture, polished user experience, maintainable code, and products that feel fast and dependable from the first click.
+My work sits at the intersection of **product quality, engineering discipline, and applied AI**. I care about software that looks premium, loads fast, handles edge cases, and remains easy to maintain after the first release.
 
-- Building full-stack products with strong frontend polish and backend reliability
-- Exploring AI agents, LLM workflows, automation, and developer tools
-- Contributing to open source through structured, review-ready pull requests
-- Interested in scalable systems, cloud platforms, databases, and microservices
+- Build AI-enabled products with clean user flows, reliable APIs, and production-minded architecture.
+- Work across frontend polish, backend logic, data modeling, automation, deployment, and developer tooling.
+- Contribute to open source with readable code, issue-focused changes, and maintainer-friendly pull requests.
+- Focus on performance, accessibility, security, documentation, and practical user value.
 
 ---
 
-## Tech Stack
+## Engineering Profile
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+      <br><strong>Frontend Engineering</strong>
+      <br>React, Next.js, Tailwind, animation, responsive systems, accessibility, and polished UI.
+    </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
+      <br><strong>Backend Engineering</strong>
+      <br>REST APIs, auth, validation, service logic, background jobs, and secure workflows.
+    </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+      <br><strong>AI and Automation</strong>
+      <br>LLM workflows, ML systems, document tools, recommendation logic, and intelligent assistants.
+    </td>
+    <td width="25%" align="center">
+      <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
+      <br><strong>Cloud Delivery</strong>
+      <br>Docker, CI/CD, cloud hosting, observability, deployment pipelines, and release hygiene.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core Stack
 
 <div align="center">
 
-![Core Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,django,mongodb,postgres,mysql,redis,docker,aws,vercel,netlify,cloudflare,git,github,githubactions,postman,figma,vscode&perline=9)
+![Core Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,django,mongodb,postgres,mysql,redis,docker,aws,vercel,netlify,cloudflare,git,github,githubactions,postman,figma,vscode&perline=9)
 
 </div>
 
@@ -44,112 +73,122 @@ I care about clean architecture, polished user experience, maintainable code, an
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
-### Backend
+### Backend, Data and AI
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Databases and Storage
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111111)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI, Automation and Data
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-### Cloud, DevOps and Tools
+### Cloud, Tools and Architecture
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Microservices and Architecture
-
 ![Microservices](https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge&logo=serverless&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-2563EB?style=for-the-badge&logo=nginx&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event_Driven-7C3AED?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Message Queue](https://img.shields.io/badge/Message_Queues-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-16A34A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-111827?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## Featured Focus Areas
-
-| Area | What I Build |
-| --- | --- |
-| Full-Stack Web Apps | Responsive interfaces, secure APIs, dashboards, admin panels, and production-ready user flows |
-| AI Products | AI assistants, prompt workflows, automation tools, RAG-style systems, and intelligent integrations |
-| Backend Systems | REST APIs, authentication, database design, background jobs, and service-oriented architecture |
-| Open Source | Issue analysis, bug fixes, documentation improvements, feature PRs, and maintainable contributions |
-| Developer Experience | Clean code structure, reusable components, CI/CD workflows, API testing, and deployment pipelines |
-
----
-
-## Engineering Snapshot
+## Selected Work
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Frontend icon">
-      <br><strong>Frontend Craft</strong>
-      <br>React, Next.js, Tailwind, animation, accessibility, responsive product UI.
+    <td width="50%">
+      <h3><a href="https://github.com/kunal-9090/Agri-Vision">Agri-Vision</a></h3>
+      <p><strong>AI-powered crop analysis system</strong></p>
+      <p>Deep learning and computer vision workflow for cotton crop growth analysis, crop health detection, smart recommendations, Flask web interface, and REST API delivery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-Computer_Vision-38BDF8?style=flat-square" alt="Computer Vision">
+        <img src="https://img.shields.io/badge/Backend-Flask_API-22C55E?style=flat-square" alt="Flask API">
+        <img src="https://img.shields.io/badge/Domain-AgriTech-F97316?style=flat-square" alt="AgriTech">
+      </p>
     </td>
-    <td width="25%" align="center">
-      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Backend icon">
-      <br><strong>Backend Systems</strong>
-      <br>APIs, auth, validation, services, background jobs, and secure workflows.
+    <td width="50%">
+      <h3><a href="https://github.com/kunal-9090/Clinical-Insight-Engine">Clinical Insight Engine</a></h3>
+      <p><strong>Clinical decision support product</strong></p>
+      <p>Full-stack system that surfaces early diabetes risk signals with an interpretable ML model and a modern React experience for clinicians and patients.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ML-Interpretable_Model-8B5CF6?style=flat-square" alt="Interpretable ML">
+        <img src="https://img.shields.io/badge/Frontend-React-38BDF8?style=flat-square" alt="React">
+        <img src="https://img.shields.io/badge/Domain-HealthTech-22C55E?style=flat-square" alt="HealthTech">
+      </p>
     </td>
-    <td width="25%" align="center">
-      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Database icon">
-      <br><strong>Data Layer</strong>
-      <br>MongoDB, PostgreSQL, MySQL, Redis, schema design, and reliable storage.
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/kunal-9090/Draftdeckai">Draftdeckai</a></h3>
+      <p><strong>AI-powered document creation platform</strong></p>
+      <p>Open-source platform for generating polished resumes, CVs, presentations, and professional documents from natural-language briefs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-Document_Generation-2563EB?style=flat-square" alt="Document AI">
+        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Open_Source-Product-14B8A6?style=flat-square" alt="Open Source">
+      </p>
     </td>
-    <td width="25%" align="center">
-      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="DevOps icon">
-      <br><strong>Cloud Delivery</strong>
-      <br>Docker, CI/CD, Vercel, Netlify, Cloudflare, deployment, and observability.
+    <td width="50%">
+      <h3><a href="https://github.com/kunal-9090/Tessera.io">Tessera.io</a></h3>
+      <p><strong>Collaborative developer sandbox</strong></p>
+      <p>Real-time CRDT synchronization and secure remote code execution for human-AI pair programming and collaborative engineering workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Realtime-CRDT-38BDF8?style=flat-square" alt="CRDT">
+        <img src="https://img.shields.io/badge/Sandbox-Secure_Execution-F97316?style=flat-square" alt="Secure Execution">
+        <img src="https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square" alt="TypeScript">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/kunal-9090/Late-Meet">Late-Meet</a></h3>
+      <p><strong>AI productivity extension for Google Meet</strong></p>
+      <p>Chrome extension for real-time transcription, meeting summaries, participant intelligence, and meeting productivity workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Extension-Chrome-22C55E?style=flat-square" alt="Chrome Extension">
+        <img src="https://img.shields.io/badge/AI-Summaries-8B5CF6?style=flat-square" alt="AI Summaries">
+        <img src="https://img.shields.io/badge/Product-Productivity-2563EB?style=flat-square" alt="Productivity">
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/kunal-9090/TermUI">TermUI</a></h3>
+      <p><strong>Terminal UI framework</strong></p>
+      <p>TypeScript/JavaScript framework for building terminal apps with flexbox layout, JSX, hooks, state, theming, animations, routing, and hot reload.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Framework-Terminal_UI-0F172A?style=flat-square" alt="Terminal UI">
+        <img src="https://img.shields.io/badge/Developer_Tools-TypeScript-3178C6?style=flat-square" alt="TypeScript">
+        <img src="https://img.shields.io/badge/DX-Hot_Reload-F97316?style=flat-square" alt="Hot Reload">
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+## Operating Principles
+
+| Principle | How I Apply It |
+| --- | --- |
+| Product clarity | Start from the user journey, then shape the interface, data flow, and system behavior around it. |
+| Engineering depth | Prefer readable architecture, clear boundaries, meaningful validation, and reliable error handling. |
+| AI pragmatism | Use AI where it improves workflow quality, decision support, automation, or user productivity. |
+| Open-source discipline | Keep changes scoped, documented, reviewable, and aligned with maintainer expectations. |
+| Delivery mindset | Think through deployment, performance, security, observability, and long-term maintainability. |
 
 ---
 
@@ -157,39 +196,26 @@ I care about clean architecture, polished user experience, maintainable code, an
 
 <div align="center">
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal-9090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kunal-9090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kunal's GitHub stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-9090&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-9090&layout=compact&theme=tokyonight&hide_border=true)
+<img width="780" src="https://streak-stats.demolab.com?user=kunal-9090&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kunal-9090&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal-9090&theme=tokyo-night&hide_border=true&area=true)
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-9090&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
 
 </div>
 
 ---
 
-## Current Engineering Mindset
+## Current Focus
 
 ```text
-Design clean interfaces.
-Build reliable APIs.
-Automate repeated work.
-Use data where it matters.
-Ship features that feel complete.
-Contribute with clarity and discipline.
+Build products that feel polished.
+Design APIs that remain predictable.
+Use AI to remove real workflow friction.
+Write code that reviewers can trust.
+Ship with clarity, performance, and maintainability.
 ```
-
----
-
-## Project Highlights
-
-<div align="center">
-
-![AI Career Operating System](https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=AI-powered-Career-Operating-System&theme=tokyonight&hide_border=true)
-![SecureOps Taskflow API](https://github-readme-stats.vercel.app/api/pin/?username=kunal-9090&repo=secureops-taskflow-api&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -197,9 +223,9 @@ Contribute with clarity and discipline.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-181717?style=for-the-badge&logo=github)](https://github.com/kunal-9090)
+[![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Add_Link-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Add_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
@@ -208,8 +234,8 @@ Contribute with clarity and discipline.
 
 <div align="center">
 
-### "Code with purpose. Design with taste. Ship with discipline."
+### "Build with taste. Engineer with discipline. Ship with purpose."
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22C55E,45:0EA5E9,100:0F172A)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:2563EB,50:0F766E,100:020617)
 
 </div>
