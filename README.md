@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Builder_Profile-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
 [![Open Source](https://img.shields.io/badge/Open_Source-Contributor-F97316?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/kunal-9090)
-[![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=Followers&color=14B8A6)](https://github.com/kunal-9090?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&style=for-the-badge&color=14B8A6&label=Profile+Views)](https://github.com/kunal-9090)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=850&color=38BDF8&center=true&vCenter=true&width=950&lines=I+design+polished+interfaces+and+ship+reliable+systems;AI+products+%7C+full-stack+apps+%7C+automation+workflows;Clean+architecture%2C+strong+UX%2C+and+review-ready+open+source)
 
@@ -57,13 +57,7 @@ My work sits at the intersection of **product quality, engineering discipline, a
 
 ---
 
-## Core Stack
-
-<div align="center">
-
-![Core Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,django,mongodb,postgres,mysql,redis,docker,aws,vercel,netlify,cloudflare,git,github,githubactions,postman,figma,vscode&perline=9)
-
-</div>
+## Tech Stack
 
 ### Frontend
 
@@ -77,22 +71,34 @@ My work sits at the intersection of **product quality, engineering discipline, a
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Backend, Data and AI
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)
+
+### Data and AI
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Cloud, Tools and Architecture
+### Microservices
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -104,6 +110,8 @@ My work sits at the intersection of **product quality, engineering discipline, a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge&logo=serverless&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-2563EB?style=for-the-badge&logo=nginx&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event_Driven-7C3AED?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Message Queues](https://img.shields.io/badge/Message_Queues-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -225,8 +233,8 @@ Ship with clarity, performance, and maintainability.
 
 [![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090)
 [![Repositories](https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-9090?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Add_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal_Keshari_Pattanaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-keshari-pattanaik-002382337/)
+[![Email](https://img.shields.io/badge/Email-kunalpattanaik9090%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalpattanaik9090@gmail.com)
 
 </div>
 
