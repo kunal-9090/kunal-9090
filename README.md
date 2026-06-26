@@ -5,8 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kunal--9090-181717?style=for-the-badge&logo=github)](https://github.com/kunal-9090)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Builder_Profile-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Open Source](https://img.shields.io/badge/Open_Source-GSSoC'26-FF7A00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&style=for-the-badge&color=0EA5E9&label=Profile+Views)](https://github.com/kunal-9090)
-![IST Time](https://img.shields.io/badge/Timezone-IST%20UTC%2B5%3A30-22C55E?style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/kunal-9090?style=for-the-badge&logo=github&label=Followers&color=22C55E)](https://github.com/kunal-9090?tab=followers)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+production-ready+web+apps+and+AI+workflows;Frontend+%2B+Backend+%2B+Databases+%2B+Cloud+%2B+Automation;Open-source+contributor+focused+on+clean+and+scalable+software)
 
@@ -15,6 +14,8 @@
 ---
 
 ## About Me
+
+<img align="right" width="330" alt="Developer workspace animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 I am **Kunal Keshari Pattanaik**, an AI-focused full-stack developer who enjoys building software that looks sharp, performs reliably, and solves real problems. I work across modern web applications, API systems, dashboards, automation workflows, AI integrations, and open-source contributions.
 
@@ -28,6 +29,12 @@ I care about clean architecture, polished user experience, maintainable code, an
 ---
 
 ## Tech Stack
+
+<div align="center">
+
+![Core Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,django,mongodb,postgres,mysql,redis,docker,aws,vercel,netlify,cloudflare,git,github,githubactions,postman,figma,vscode&perline=9)
+
+</div>
 
 ### Frontend
 
@@ -117,6 +124,35 @@ I care about clean architecture, polished user experience, maintainable code, an
 
 ---
 
+## Engineering Snapshot
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Frontend icon">
+      <br><strong>Frontend Craft</strong>
+      <br>React, Next.js, Tailwind, animation, accessibility, responsive product UI.
+    </td>
+    <td width="25%" align="center">
+      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Backend icon">
+      <br><strong>Backend Systems</strong>
+      <br>APIs, auth, validation, services, background jobs, and secure workflows.
+    </td>
+    <td width="25%" align="center">
+      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Database icon">
+      <br><strong>Data Layer</strong>
+      <br>MongoDB, PostgreSQL, MySQL, Redis, schema design, and reliable storage.
+    </td>
+    <td width="25%" align="center">
+      <img width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="DevOps icon">
+      <br><strong>Cloud Delivery</strong>
+      <br>Docker, CI/CD, Vercel, Netlify, Cloudflare, deployment, and observability.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -130,32 +166,6 @@ I care about clean architecture, polished user experience, maintainable code, an
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal-9090&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
----
-
-## Visitor Intelligence
-
-GitHub profile READMEs cannot directly reveal the GitHub username of every visitor because GitHub does not expose visitor identity to README widgets. The production-safe setup below adds public profile views and a clear path for advanced visitor analytics.
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kunal-9090&style=for-the-badge&color=0EA5E9&label=Total+Profile+Visits)
-![Timezone](https://img.shields.io/badge/Local_Time-IST%20UTC%2B5%3A30-22C55E?style=for-the-badge)
-![Analytics Ready](https://img.shields.io/badge/Visitor_Analytics-Backend_Ready-8B5CF6?style=for-the-badge)
-
-</div>
-
-**Advanced visitor tracking idea:** create a tiny analytics microservice with GitHub OAuth. When someone clicks a "Connect on GitHub" or "Visit Portfolio" link, the service can log their GitHub username, visit timestamp, country/timezone, referrer, and device metadata with consent.
-
-Suggested architecture:
-
-```text
-GitHub README -> Portfolio / Tracking Link -> API Gateway -> Visitor Service
-                                      |-> GitHub OAuth
-                                      |-> PostgreSQL / MongoDB
-                                      |-> Admin Dashboard
-                                      |-> Email / Discord / Telegram Alert
-```
 
 ---
 
