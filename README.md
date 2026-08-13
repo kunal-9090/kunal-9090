@@ -204,15 +204,13 @@ My work sits at the intersection of **product quality, engineering discipline, a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kunal-9090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kunal's GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-9090&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+<img width="900" src="https://raw.githubusercontent.com/kunal-9090/kunal-9090/main/assets/github-analytics.svg" alt="Kunal Keshari Pattanaik GitHub analytics">
 
-<img width="780" src="https://streak-stats.demolab.com?user=kunal-9090&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img width="900" src="https://raw.githubusercontent.com/kunal-9090/kunal-9090/main/assets/top-languages.svg" alt="Kunal Keshari Pattanaik top languages">
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=kunal-9090&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
 
 </div>
-
 ---
 
 ## Current Focus
