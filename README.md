@@ -204,8 +204,8 @@ My work sits at the intersection of **product quality, engineering discipline, a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kunal-9090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kunal's GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-9090&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunal-9090&theme=tokyonight" alt="Kunal's GitHub stats">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunal-9090&theme=tokyonight" alt="Top languages">
 
 <img width="780" src="https://github-readme-streak-stats-eight.vercel.app?user=kunal-9090&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
